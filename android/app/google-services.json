@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "865856877296",
+    "firebase_url": "https://prueba-jp-d952c-default-rtdb.firebaseio.com",
+    "project_id": "prueba-jp-d952c",
+    "storage_bucket": "prueba-jp-d952c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865856877296:android:0cee2b9241062a19570835",
+        "android_client_info": {
+          "package_name": "com.example.app_aa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjeAJkLcIgzhQhOhznjoIwqh9RRhchRlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
